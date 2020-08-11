@@ -1,4 +1,4 @@
-# vuex_demo2
+# vuex_todolist_demo
 
 ## Project setup
 ```
